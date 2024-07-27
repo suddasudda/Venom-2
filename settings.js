@@ -4,26 +4,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
-global.ytname = "David Cyril"
+global.ownernomer = "94766687628"
+global.ownername = "ANNSUN-Y"
+global.ytname = "ANNSUN-Y"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.ownernumber = '94766687628,94776477438,94763297258'  //creator number
+global.ownername = 'ANNSUN-Y' //owner name
+global.botname = '👾ANNSUN-Y👾' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.packname = 'Sticker By annsun-y'
+global.author = 'ANNSUN-Y_CYBER\n\nContact: +94766687628'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "David Cyril Tech."
+global.themeemoji = '👾'
+global.wm = "ANNSUN-Y."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+global.link = 'https://chat.whatsapp.com/IiWCxZRhdOy1eC6Mryy9sX'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -35,7 +35,7 @@ global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -59,7 +59,7 @@ global.mess = {
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
+    wait: 'annsun-y In process... ',    
     error: 'Error!',
 }
 
